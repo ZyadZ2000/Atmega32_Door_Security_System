@@ -6,7 +6,7 @@
  *
  * Description: Header file for the External EEPROM Memory
  *
- * Author: Mohamed Tarek
+ * Author: Zyad Nezar
  *
  *******************************************************************************/
 

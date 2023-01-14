@@ -6,7 +6,7 @@
  *
  * Description: Header file for the Keypad driver
  *
- * Author: Mohamed Tarek
+ * Author: Zyad Nezar
  *
  *******************************************************************************/
 

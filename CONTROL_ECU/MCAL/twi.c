@@ -6,7 +6,7 @@
  *
  * Description: Source file for the TWI(I2C) AVR driver
  *
- * Author: Mohamed Tarek
+ * Author: Zyad Nezar
  *
  *******************************************************************************/
  

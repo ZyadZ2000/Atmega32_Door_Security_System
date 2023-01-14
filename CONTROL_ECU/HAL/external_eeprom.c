@@ -6,7 +6,7 @@
  *
  * Description: Source file for the External EEPROM Memory
  *
- * Author: Mohamed Tarek
+ * Author: Zyad Nezar
  *
  *******************************************************************************/
 #include "external_eeprom.h"
